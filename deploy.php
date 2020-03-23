@@ -18,8 +18,7 @@ class Deployment {
 		
 		if (strlen($signature) > 8 && $this->isFromGithub($requestBody,$signature)) {
             //验证密钥是否正确，如果正确执行命令。
-			$res = shell_exec("cd /alidata/www/phpwind/project &&                         
-git pull 2>&1");
+			$res = shell_exec("cd /alidata/www/phpwind/project && git pull 2>&1");
 			$res_log = "\n -------------------------".PHP_EOL;
 			$res_log .= '['.$payload['commits'][0]['author']['name'] . ']' . '向[' . $payload['repository']['name'] . ']项目的' . $payload['ref'] . '分支'.$_SERVER['X-GitHub-Event'].'了代码。commit信息是：'.$payload['commits']['message'].'。详细信息如下：' . PHP_EOL;
 			$res_log .= $res.PHP_EOL;
