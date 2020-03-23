@@ -1,6 +1,6 @@
 - Translations
   - [:uk: English](/)
-  - [:cn: ä¸­æ–‡](/zh-cn/)
+  - [:cn: 简体中文](/zh-cn/)
   - [:de: Deutsch](/de-de/)
   - [:es: Spanish](/es/)
   - [:ru: Russian](/ru/)
