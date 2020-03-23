@@ -88,7 +88,7 @@ ssh deploy@123.456.789
 
 创建 SSH 密钥对：
 
-```
+```bash
 ssh-keygen
 ```
 

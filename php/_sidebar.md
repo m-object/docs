@@ -10,7 +10,7 @@
 
     * [服务器介绍](server/README.md)
 
-    * [SSh](server/ssh/README.md) 
+    * [SSH](server/ssh/README.md) 
     
         * [服务器SSH认证配置](server/ssh/服务器SSH认证配置.md)
 
