@@ -1,3 +1,7 @@
+* web文章
+
+    * [页面静态化](web/php_html_static.md)
+
 * 组件类
 
   * [工具类](component-class/Utils.md)
