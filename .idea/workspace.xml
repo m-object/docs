@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="766fa6d7-23dd-4138-a356-3c07ba7df830" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/medivh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/apps/vendor/aliyuncs/oss-sdk-php" afterPath="$PROJECT_DIR$/../dongchaguan/apps/vendor/aliyuncs/oss-sdk-php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/docs/接口文档.md.temp" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/docs/接口文档.md.temp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr-rtl.css" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr-rtl.min.css" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr.css" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr.less" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/bootstrap-toastr/toastr.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/adapters/jquery.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/adapters/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/build-config.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/build-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/ckeditor.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/ckeditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/af.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/af.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ar.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/bg.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/bn.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/bn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/bs.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/bs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ca.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/cs.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/cy.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/cy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/da.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/de-ch.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/de-ch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/de.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/el.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/en-au.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/en-au.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/en-ca.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/en-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/en-gb.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/en-gb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/en.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/eo.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/eo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/es.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/et.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/et.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/eu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fa.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fi.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fo.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fr-ca.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fr-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/gl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/gl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/gu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/gu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/he.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/hi.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/hi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/hr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/hu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/id.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/is.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/is.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/it.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ja.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ka.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ka.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/km.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/km.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ko.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ku.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ku.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/lt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/lv.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/mk.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/mk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/mn.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/mn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ms.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/nb.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/nl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/no.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/pl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/pt-br.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/pt-br.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/pt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ro.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ru.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/si.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/si.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sk.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sq.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sr-latn.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sr-latn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sv.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/th.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/tr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/tt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/tt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ug.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/ug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/uk.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/uk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/vi.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/vi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/zh-cn.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/zh-cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/zh.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/lang/zh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/about/dialogs/about.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/about/dialogs/about.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/clipboard/dialogs/paste.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/dialog/dialogDefinition.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/dialog/dialogDefinition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/image/dialogs/image.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/image/dialogs/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/link/dialogs/anchor.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/link/dialogs/anchor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/link/dialogs/link.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/link/dialogs/link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/pastefromword/filter/default.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/pastefromword/filter/default.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/scayt/dialogs/options.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/scayt/dialogs/options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/af.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/af.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/da.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/eu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/fa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/gl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/km.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/km.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ko.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/lt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/si.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/sl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/sq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/tt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/tt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/uk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/vi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/zh.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/lang/zh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/table/dialogs/table.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/table/dialogs/table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/wsc/dialogs/wsc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/plugins/wsc/dialogs/wsc_ie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/js/sample.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/js/sample.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/js/sf.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/js/sf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/old/assets/uilanguages/languages.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/old/assets/uilanguages/languages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/old/dialog/assets/my_dialog.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/old/dialog/assets/my_dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/old/sample.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/old/sample.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/styles.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ckeditor/styles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/datetimepicker/bootstrap-datetimepicker.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/datetimepicker/bootstrap-datetimepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/datetimepicker/locales/bootstrap-datetimepicker.lt.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/datetimepicker/locales/bootstrap-datetimepicker.lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ionslider/ion.rangeSlider.min.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/plugins/ionslider/ion.rangeSlider.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/js/common.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/js/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/libs/layui/lay/modules/element.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/libs/layui/lay/modules/element.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/admin.css" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/admin.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/cascader/cascader.css" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/cascader/cascader.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/cascader/cascader.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/cascader/cascader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/cascader/citys-data.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/cascader/citys-data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/contextMenu.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/contextMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/dataGrid.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/dataGrid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/dropdown/dropdown.css" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/dropdown/dropdown.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/dropdown/dropdown.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/dropdown/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/fileChoose/fileChoose.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/fileChoose/fileChoose.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/formX.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/formX.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/printer.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/printer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/steps/steps.css" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/steps/steps.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/steps/steps.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/steps/steps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/tableX.js" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/assets/module/tableX.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/system/dictionary.html" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/system/dictionary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/system/organization.html" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/system/organization.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/system/role.html" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/system/role.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/system/user.html" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/system/user.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/template/error/error-403.html" afterPath="$PROJECT_DIR$/../dongchaguan/public/backstage/pro/page/template/error/error-403.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../migo_store/applications/b2c/controller/admin/order.php" afterPath="$PROJECT_DIR$/../migo_store/applications/b2c/controller/admin/order.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../migo_store/applications/b2c/view/admin/order/detail_basic.html" afterPath="$PROJECT_DIR$/../migo_store/applications/b2c/view/admin/order/detail_basic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../migo_store/applications/base/lib/shell/buildin.php" afterPath="$PROJECT_DIR$/../migo_store/applications/base/lib/shell/buildin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/app/library/Plugins/CorsPlugin.php" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/app/library/Plugins/CorsPlugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/app/models/Orders.php" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/app/models/Orders.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/bootstrap-toastr/toastr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/bootstrap-toastr/toastr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/build-config.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/build-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/ckeditor.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/ckeditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/af.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/af.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ar.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/bg.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/bn.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/bn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/bs.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/bs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ca.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/cs.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/cy.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/cy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/da.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/de-ch.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/de-ch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/de.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/el.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/en-au.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/en-au.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/en-ca.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/en-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/en-gb.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/en-gb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/en.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/eo.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/eo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/es.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/et.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/et.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/eu.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fa.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fi.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fo.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fr-ca.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fr-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/gl.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/gl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/gu.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/gu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/he.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/hi.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/hi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/hr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/hu.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/id.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/is.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/is.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/it.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ja.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ka.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ka.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/km.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/km.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ko.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ku.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ku.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/lt.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/lv.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/mk.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/mk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/mn.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/mn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ms.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/nb.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/nl.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/no.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/pl.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/pt-br.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/pt-br.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/pt.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ro.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ru.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/si.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/si.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sk.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sl.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sq.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sr-latn.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sr-latn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sv.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/th.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/tr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/tt.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/tt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ug.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/ug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/uk.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/uk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/vi.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/vi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/zh-cn.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/zh-cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/zh.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/lang/zh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/about/dialogs/about.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/about/dialogs/about.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/clipboard/dialogs/paste.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/image/dialogs/image.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/image/dialogs/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/link/dialogs/anchor.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/link/dialogs/anchor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/link/dialogs/link.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/link/dialogs/link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/pastefromword/filter/default.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/pastefromword/filter/default.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/scayt/dialogs/options.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/scayt/dialogs/options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/table/dialogs/table.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/table/dialogs/table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/wsc/dialogs/wsc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/plugins/wsc/dialogs/wsc_ie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/js/sf.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/js/sf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/old/assets/uilanguages/languages.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/old/assets/uilanguages/languages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/old/dialog/assets/my_dialog.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/old/dialog/assets/my_dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/styles.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/ckeditor/styles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/datetimepicker/bootstrap-datetimepicker.js" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/backstage/plugins/datetimepicker/bootstrap-datetimepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pianyijiaowo_server/public/index.php" afterPath="$PROJECT_DIR$/../pianyijiaowo_server/public/index.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PetCategoryController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../dongchaguan/apps/backend/controllers/PetCategoryController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../dongchaguan" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dongchaguan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dongchaguan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dongchaguan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dongchaguan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="766fa6d7-23dd-4138-a356-3c07ba7df830" name="Default" comment="" />
+      <created>1586244145059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586244145059</updated>
+      <workItem from="1586244146355" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="206000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../dongchaguan/apps/backend/controllers/PetCategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Docs.iml" filepath="$PROJECT_DIR$/.idea/Docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../migo_store/.idea/migo_store.iml" filepath="$PROJECT_DIR$/../migo_store/.idea/migo_store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pianyijiaowo_server/.idea/pianyijiaowo_server.iml" filepath="$PROJECT_DIR$/../pianyijiaowo_server/.idea/pianyijiaowo_server.iml" />
+    </modules>
+  </component>
+</project>
